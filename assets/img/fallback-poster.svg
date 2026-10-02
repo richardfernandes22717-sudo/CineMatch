@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Movie poster unavailable">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#251b38"/><stop offset="1" stop-color="#3a131f"/></linearGradient></defs>
+<rect width="600" height="900" fill="#101016"/><circle cx="80" cy="100" r="280" fill="url(#g)" opacity=".9"/><circle cx="550" cy="820" r="340" fill="#7c5cff" opacity=".13"/>
+<g fill="none" stroke="#f6f5fb" stroke-width="12" opacity=".78"><rect x="180" y="280" width="240" height="170" rx="20"/><path d="M230 280l35-70m70 70l35-70M200 350h200"/></g>
+<text x="300" y="545" text-anchor="middle" fill="#f6f5fb" font-size="48" font-family="Arial" font-weight="700">MOVIEVERSE</text>
+<text x="300" y="600" text-anchor="middle" fill="#a3a3b2" font-size="25" font-family="Arial">Poster unavailable</text>
+</svg>
